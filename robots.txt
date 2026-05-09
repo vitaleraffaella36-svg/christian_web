@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.christianchiacchioconsulting.it/sitemap.xml
